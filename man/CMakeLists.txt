@@ -3,3 +3,4 @@ install(FILES libmosquitto.3 DESTINATION ${MANDIR}/man3)
 install(FILES mosquitto.conf.5 DESTINATION ${MANDIR}/man5)
 install(FILES mosquitto-tls.7 mqtt.7 DESTINATION ${MANDIR}/man7)
 install(FILES mosquitto.8 DESTINATION ${MANDIR}/man8)
+test
